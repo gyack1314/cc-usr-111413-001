@@ -1,0 +1,1138 @@
+{
+  "asof": 40,
+  "assignment": [
+    {
+      "canteen": "c0",
+      "block": "0",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c1",
+      "block": "0",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c2",
+      "block": "0",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c3",
+      "block": "0",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c4",
+      "block": "0",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c5",
+      "block": "0",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c6",
+      "block": "1",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c7",
+      "block": "1",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c8",
+      "block": "1",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c9",
+      "block": "1",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c10",
+      "block": "1",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c11",
+      "block": "1",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c12",
+      "block": "2",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c13",
+      "block": "2",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c14",
+      "block": "2",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c15",
+      "block": "2",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c16",
+      "block": "2",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c17",
+      "block": "2",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c18",
+      "block": "3",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c19",
+      "block": "3",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c20",
+      "block": "3",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c21",
+      "block": "3",
+      "encouraged": 1
+    },
+    {
+      "canteen": "c22",
+      "block": "3",
+      "encouraged": 0
+    },
+    {
+      "canteen": "c23",
+      "block": "3",
+      "encouraged": 1
+    }
+  ],
+  "adoption": [
+    {
+      "canteen": "c0",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c0",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c0",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c1",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c1",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c1",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c2",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c2",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c2",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c3",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c3",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c3",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c4",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c4",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c4",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c5",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c5",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c5",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c6",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c6",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c6",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c7",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c7",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c7",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c8",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c8",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c8",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c9",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c9",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c9",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c10",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c10",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c10",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c11",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c11",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c11",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c12",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c12",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c12",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c13",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c13",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c13",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c14",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c14",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c14",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c15",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c15",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c15",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c16",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c16",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c16",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c17",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c17",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c17",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c18",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c18",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c18",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c19",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c19",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c19",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c20",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c20",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c20",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c21",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c21",
+      "window": 1,
+      "adopted": 1,
+      "meals": 85
+    },
+    {
+      "canteen": "c21",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    },
+    {
+      "canteen": "c22",
+      "window": 0,
+      "adopted": 0,
+      "meals": 80
+    },
+    {
+      "canteen": "c22",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c22",
+      "window": 2,
+      "adopted": 0,
+      "meals": 90
+    },
+    {
+      "canteen": "c23",
+      "window": 0,
+      "adopted": 1,
+      "meals": 80
+    },
+    {
+      "canteen": "c23",
+      "window": 1,
+      "adopted": 0,
+      "meals": 85
+    },
+    {
+      "canteen": "c23",
+      "window": 2,
+      "adopted": 1,
+      "meals": 90
+    }
+  ],
+  "weighings": [
+    {
+      "id": "w0-0",
+      "canteen": "c0",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": null,
+      "meals": 80
+    },
+    {
+      "id": "w0-1",
+      "canteen": "c0",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.2,
+      "meals": 85
+    },
+    {
+      "id": "w0-2",
+      "canteen": "c0",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w1-0",
+      "canteen": "c1",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.3,
+      "meals": 80
+    },
+    {
+      "id": "w1-1",
+      "canteen": "c1",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w1-2",
+      "canteen": "c1",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w2-0",
+      "canteen": "c2",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w2-1",
+      "canteen": "c2",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w2-2",
+      "canteen": "c2",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w3-0",
+      "canteen": "c3",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w3-1",
+      "canteen": "c3",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w3-2",
+      "canteen": "c3",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.7,
+      "meals": 90
+    },
+    {
+      "id": "w4-0",
+      "canteen": "c4",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.0,
+      "meals": 80
+    },
+    {
+      "id": "w4-1",
+      "canteen": "c4",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.2,
+      "meals": 85
+    },
+    {
+      "id": "w4-2",
+      "canteen": "c4",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w5-0",
+      "canteen": "c5",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.3,
+      "meals": 80
+    },
+    {
+      "id": "w5-1",
+      "canteen": "c5",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w5-2",
+      "canteen": "c5",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w6-0",
+      "canteen": "c6",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w6-1",
+      "canteen": "c6",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w6-2",
+      "canteen": "c6",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w7-0",
+      "canteen": "c7",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w7-1",
+      "canteen": "c7",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w7-2",
+      "canteen": "c7",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.7,
+      "meals": 90
+    },
+    {
+      "id": "w8-0",
+      "canteen": "c8",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.0,
+      "meals": 80
+    },
+    {
+      "id": "w8-1",
+      "canteen": "c8",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.2,
+      "meals": 85
+    },
+    {
+      "id": "w8-2",
+      "canteen": "c8",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w9-0",
+      "canteen": "c9",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.3,
+      "meals": 80
+    },
+    {
+      "id": "w9-1",
+      "canteen": "c9",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w9-2",
+      "canteen": "c9",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w10-0",
+      "canteen": "c10",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w10-1",
+      "canteen": "c10",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w10-2",
+      "canteen": "c10",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w11-0",
+      "canteen": "c11",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w11-1",
+      "canteen": "c11",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w11-2",
+      "canteen": "c11",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.7,
+      "meals": 90
+    },
+    {
+      "id": "w12-0",
+      "canteen": "c12",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.0,
+      "meals": 80
+    },
+    {
+      "id": "w12-1",
+      "canteen": "c12",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.2,
+      "meals": 85
+    },
+    {
+      "id": "w12-2",
+      "canteen": "c12",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w13-0",
+      "canteen": "c13",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.3,
+      "meals": 80
+    },
+    {
+      "id": "w13-1",
+      "canteen": "c13",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w13-2",
+      "canteen": "c13",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w14-0",
+      "canteen": "c14",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w14-1",
+      "canteen": "c14",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w14-2",
+      "canteen": "c14",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w15-0",
+      "canteen": "c15",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w15-1",
+      "canteen": "c15",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w15-2",
+      "canteen": "c15",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": null,
+      "meals": 90
+    },
+    {
+      "id": "w16-0",
+      "canteen": "c16",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.0,
+      "meals": 80
+    },
+    {
+      "id": "w16-1",
+      "canteen": "c16",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": null,
+      "meals": 85
+    },
+    {
+      "id": "w16-2",
+      "canteen": "c16",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w17-0",
+      "canteen": "c17",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": null,
+      "meals": 80
+    },
+    {
+      "id": "w17-1",
+      "canteen": "c17",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w17-2",
+      "canteen": "c17",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w18-0",
+      "canteen": "c18",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w18-1",
+      "canteen": "c18",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w18-2",
+      "canteen": "c18",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w19-0",
+      "canteen": "c19",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w19-1",
+      "canteen": "c19",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w19-2",
+      "canteen": "c19",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.7,
+      "meals": 90
+    },
+    {
+      "id": "w20-0",
+      "canteen": "c20",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.0,
+      "meals": 80
+    },
+    {
+      "id": "w20-1",
+      "canteen": "c20",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.2,
+      "meals": 85
+    },
+    {
+      "id": "w20-2",
+      "canteen": "c20",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.4,
+      "meals": 90
+    },
+    {
+      "id": "w21-0",
+      "canteen": "c21",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 6.3,
+      "meals": 80
+    },
+    {
+      "id": "w21-1",
+      "canteen": "c21",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 6.5,
+      "meals": 85
+    },
+    {
+      "id": "w21-2",
+      "canteen": "c21",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 6.7,
+      "meals": 90
+    },
+    {
+      "id": "w22-0",
+      "canteen": "c22",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.0,
+      "meals": 80
+    },
+    {
+      "id": "w22-1",
+      "canteen": "c22",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.2,
+      "meals": 85
+    },
+    {
+      "id": "w22-2",
+      "canteen": "c22",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.4,
+      "meals": 90
+    },
+    {
+      "id": "w23-0",
+      "canteen": "c23",
+      "known": 20,
+      "revision": 1,
+      "waste_kg": 8.3,
+      "meals": 80
+    },
+    {
+      "id": "w23-1",
+      "canteen": "c23",
+      "known": 21,
+      "revision": 1,
+      "waste_kg": 8.5,
+      "meals": 85
+    },
+    {
+      "id": "w23-2",
+      "canteen": "c23",
+      "known": 22,
+      "revision": 1,
+      "waste_kg": 8.7,
+      "meals": 90
+    }
+  ],
+  "adoption_threshold": 0.5
+}
